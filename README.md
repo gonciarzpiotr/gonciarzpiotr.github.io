@@ -1,16 +1,17 @@
-## GETTING STARTED NEW
+---
+layout: home
+---
+
+## GETTING STARTED
 
 I'm an automation and manual tester. As a manual tester I am as sensitive in detecting functional mishaps, as I am in targeting user experience weaknesses. I always try to keep as holistic perspective on the product as possible. As an automation tester I feel best in BDD that lets my test blend in development process and positively impact customers satisfaction.
-## Contact info:
-#### email: [PiotrGonciarz@aol.com](mailto:piotrgonciarz@aol.com)
-#### phone: +48 782 518 505
-####  [linkedin](https://www.linkedin.com/in/piotr-gonciarz-qa/)
+
 
 ### Sector’s knowledge
 Test Automation, Manual / exploratory testing, Risk estimation, User experience verification
 
 ### Programming languages and frameworks
-**Java** , Python, C#, JavaScript, **Appium**, **Cucumber**, Bash
+**Java** , **Python, C#**, JavaScript, Appium, Cucumber, Pytest
 
 ### Databases
 
@@ -26,6 +27,33 @@ Selenium, Git, Jenkins, Postman, Intellij Idea, XCODE iOS simulator, android emu
 Jira, Confluence, YouTrack
 
 ## PROFESSIONAL EXPERIENCE
+
+### Sabre - HPS core project 2019-2024
+
+##### Project description & team size:
+
+- HPS is a main search and pricing engine for air travel itineraries. 
+
+##### Tasks:
+
+- Creating automated tests of regression with Python/Pytest
+- Creating test plans and test scenarios
+- Creating visualization of test results on websites with Python/Flask
+
+
+### Sabre - Oauth 2.0 internal project
+
+##### Project description & team size:
+
+- Implementing Oauth 2.0 authorization protocol across company internal systems for Sabre employees
+
+##### Tasks:
+
+- Creating automated tests of regression Java/Karate/Jmeter
+- Creating test plans and test scenarios
+- Helping the development team brainstorm test ideas, edge cases and produce sound test plans for features they are working on
+- Creating load and performance tests with Jmeter
+- Running load and performance tests and evaluating results
 
 ### Sii - Ingenico/Worldline
 
@@ -101,4 +129,5 @@ Jira, Confluence, YouTrack
 - music
 - gaming
 
-I hereby give consent for my personal data to be processed  for the purpose of conducting recruitment for the position for which I am applying.
+
+I hereby give consent for my personal data to be processed for the purpose of conducting recruitment for the position for which I am applying.
