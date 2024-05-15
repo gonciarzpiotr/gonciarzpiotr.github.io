@@ -3,7 +3,7 @@ layout: home
 ---
 
 ## Piotr Gonciarz CV
-email: PiotrGonciarz@aol.com tel: 782518505
+e-mail: PiotrGonciarz@aol.com tel: 782518505
 
 I'm an automation and manual tester. As a manual tester I am as sensitive in detecting functional mishaps, as I am in targeting user experience weaknesses. I always try to keep as holistic perspective on the product as possible. As an automation tester I feel best in BDD that lets my test blend in development process and positively impact customers satisfaction.
 
@@ -11,18 +11,12 @@ I'm an automation and manual tester. As a manual tester I am as sensitive in det
 Test automation, manual / exploratory testing, risk estimation, user experience verification
 
 ### Programming languages and frameworks
-**Java** , **Python, C#**, JavaScript, Appium, Cucumber, Pytest
+**Java** , **Python, C#**, JavaScript, Appium, Cucumber, Pytest, SQL
 
-### Databases
-
-Oracle
-
-### Operating systems
-Windows, Linux, MacOS
 ### Project management methodologies
 Agile, Scrum
 ### Tools for software building and testing
-Selenium, Git, Jenkins, Postman, Intellij Idea, XCODE iOS simulator, android emulator, Jmeter, Pycharm
+Selenium, Git, Jenkins, Postman, IntelliJ Idea, XCODE iOS simulator, android emulator, Jmeter, Pycharm
 ### Other tools
 Jira, Confluence, YouTrack
 
@@ -30,7 +24,7 @@ Jira, Confluence, YouTrack
 
 ### Sabre - HPS core project 2021-2024
 
-##### Project description & team size:
+##### Project Description:
 
 - HPS is a main search and pricing engine for air travel itineraries. 
 
@@ -44,7 +38,7 @@ Jira, Confluence, YouTrack
 ##### Project description:
 
 - Implementing Oauth 2.0 authorization protocol across company internal systems for Sabre employees
-- 
+
 ##### Tasks:
 - Creating automated tests of regression Java/Karate/Jmeter
 - Creating test plans and test scenarios
@@ -59,21 +53,21 @@ Jira, Confluence, YouTrack
 ##### Project description:
 
 - Handling payments from different acquirers (Ingenico Worldline project
-- 
+
 ##### Tasks:
 - Creating automated tests in Java/Cucumber/HTF (clients proprietary framework)
 - Creating test plans and test scenarios
 - Helping the development team brainstorm test ideas, edge cases and produce sound test plans for features they are working on
-- Taking some DEVOPS tasks modyfing pipelines and such
+- Taking some DevOps tasks modifying pipelines and such
 
 ### Blast Lab ltd.
 
 #### AUTOMATION TESTER 1,5 years
 
-##### Project description & team size:
+##### Project Description & team size:
 
--	Team of 6 developers working on Apps for mass events with integrated navigation
-- 
+- Team of 6 developers working on Apps for mass events with integrated navigation
+
 ##### Tasks:
 - Creating automated tests in Java/Appium/Cucumber for mobile apps on Android and iOS
 - Creating test plans and tests scenarios
@@ -82,7 +76,7 @@ Jira, Confluence, YouTrack
 
 ##### 06.2018 – 09.2019
 
-##### Project description & team size:
+##### Project Description & team size:
 
 - Team of 6 developers working on Apps for mass events with integrated navigation
 
@@ -123,6 +117,5 @@ Jira, Confluence, YouTrack
 - geopolitics
 - music
 - gaming
-
 
 I hereby give consent for my personal data to be processed for the purpose of conducting recruitment for the position for which I am applying.
