@@ -22,33 +22,30 @@ Windows, Linux, MacOS
 ### Project management methodologies
 Agile, Scrum
 ### Tools for software building and testing
-Selenium, Git, Jenkins, Postman, Intellij Idea, XCODE iOS simulator, android emulator
+Selenium, Git, Jenkins, Postman, Intellij Idea, XCODE iOS simulator, android emulator, Jmeter, Pycharm
 ### Other tools
 Jira, Confluence, YouTrack
 
 ## PROFESSIONAL EXPERIENCE
 
-### Sabre - HPS core project 2019-2024
+### Sabre - HPS core project 2021-2024
 
 ##### Project description & team size:
 
 - HPS is a main search and pricing engine for air travel itineraries. 
 
 ##### Tasks:
-
 - Creating automated tests of regression with Python/Pytest
 - Creating test plans and test scenarios
 - Creating visualization of test results on websites with Python/Flask
 
+### Sabre - Oauth 2.0 internal project 2019-2021
 
-### Sabre - Oauth 2.0 internal project
-
-##### Project description & team size:
+##### Project description:
 
 - Implementing Oauth 2.0 authorization protocol across company internal systems for Sabre employees
-
+- 
 ##### Tasks:
-
 - Creating automated tests of regression Java/Karate/Jmeter
 - Creating test plans and test scenarios
 - Helping the development team brainstorm test ideas, edge cases and produce sound test plans for features they are working on
@@ -59,11 +56,11 @@ Jira, Confluence, YouTrack
 
 #### AUTOMATION TESTER since 12.2019
 
-##### Project description & team size:
+##### Project description:
 
 - Handling payments from different acquirers (Ingenico Worldline project
+- 
 ##### Tasks:
-
 - Creating automated tests in Java/Cucumber/HTF (clients proprietary framework)
 - Creating test plans and test scenarios
 - Helping the development team brainstorm test ideas, edge cases and produce sound test plans for features they are working on
@@ -76,8 +73,8 @@ Jira, Confluence, YouTrack
 ##### Project description & team size:
 
 -	Team of 6 developers working on Apps for mass events with integrated navigation
+- 
 ##### Tasks:
-
 - Creating automated tests in Java/Appium/Cucumber for mobile apps on Android and iOS
 - Creating test plans and tests scenarios
 - Helping the development team brainstorm test ideas, edge cases and produce sound test plans for features they are working on
@@ -90,7 +87,6 @@ Jira, Confluence, YouTrack
 - Team of 6 developers working on Apps for mass events with integrated navigation
 
 ##### Tasks:
-
 - Performing exploratory tests of front end web and mobile applications
 - Was in charge of website troubleshooting
 
@@ -99,7 +95,6 @@ Jira, Confluence, YouTrack
 #### IT TECHNICIAN 2014-2017
 
 ##### Tasks:
-
 - Handling client’s problems with ERP software like PC market
 - Resolving problems with LAN/WAN infrastructure
 - Fixing cash registers and fiscal printers

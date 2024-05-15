@@ -1,11 +1,7 @@
----
-layout: home
----
 
 ## GETTING STARTED
 
 I'm an automation and manual tester. As a manual tester I am as sensitive in detecting functional mishaps, as I am in targeting user experience weaknesses. I always try to keep as holistic perspective on the product as possible. As an automation tester I feel best in BDD that lets my test blend in development process and positively impact customers satisfaction.
-
 
 ### Sector’s knowledge
 Test Automation, Manual / exploratory testing, Risk estimation, User experience verification
@@ -30,7 +26,7 @@ Jira, Confluence, YouTrack
 
 ### Sabre - HPS core project 2019-2024
 
-##### Project description & team size:
+##### Project description:
 
 - HPS is a main search and pricing engine for air travel itineraries. 
 
@@ -43,7 +39,7 @@ Jira, Confluence, YouTrack
 
 ### Sabre - Oauth 2.0 internal project
 
-##### Project description & team size:
+##### Project description:
 
 - Implementing Oauth 2.0 authorization protocol across company internal systems for Sabre employees
 
@@ -59,7 +55,7 @@ Jira, Confluence, YouTrack
 
 #### AUTOMATION TESTER since 12.2019
 
-##### Project description & team size:
+##### Project description:
 
 - Handling payments from different acquirers (Ingenico Worldline project
 ##### Tasks:
@@ -73,7 +69,7 @@ Jira, Confluence, YouTrack
 
 #### AUTOMATION TESTER 1,5 years
 
-##### Project description & team size:
+##### Project description:
 
 -	Team of 6 developers working on Apps for mass events with integrated navigation
 ##### Tasks:
