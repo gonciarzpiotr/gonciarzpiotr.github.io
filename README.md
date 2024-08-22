@@ -24,7 +24,7 @@ Jira, Confluence, YouTrack
 
 ## PROFESSIONAL EXPERIENCE
 
-### Sabre - HPS core project 2019-2024
+### Sabre - HPS core project 1.2023 - 4.2024
 
 ##### Project description:
 
@@ -37,7 +37,7 @@ Jira, Confluence, YouTrack
 - Creating visualization of test results on websites with Python/Flask
 
 
-### Sabre - Oauth 2.0 internal project
+### Sabre - Oauth 2.0 internal project 4.2021 - 1.2023
 
 ##### Project description:
 

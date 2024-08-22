@@ -11,7 +11,7 @@ I'm an automation and manual tester. As a manual tester I am as sensitive in det
 Test automation, manual / exploratory testing, risk estimation, user experience verification
 
 ### Programming languages and frameworks
-**Java** , **Python, C#**, JavaScript, Appium, Cucumber, Pytest, SQL
+**Java**, Selenium, Cucumber , Appium, Cucumber, Pytest, SQL, Python
 
 ### Project management methodologies
 Agile, Scrum
@@ -22,7 +22,7 @@ Jira, Confluence, YouTrack
 
 ## PROFESSIONAL EXPERIENCE
 
-### Sabre - HPS core project 2021-2024
+### Sabre - HPS core project 1.2023 - 4.2024
 
 ##### Project Description:
 
@@ -33,10 +33,9 @@ Jira, Confluence, YouTrack
 - Creating test plans and test scenarios
 - Creating visualization of test results on websites with Python/Flask
 
-### Sabre - Oauth 2.0 internal project 2019-2021
+### Sabre - Oauth 2.0 internal project 4.2021 - 1.2023
 
 ##### Project description:
-
 - Implementing Oauth 2.0 authorization protocol across company internal systems for Sabre employees
 
 ##### Tasks:
@@ -51,7 +50,6 @@ Jira, Confluence, YouTrack
 #### AUTOMATION TESTER since 12.2019
 
 ##### Project description:
-
 - Handling payments from different acquirers (Ingenico Worldline project
 
 ##### Tasks:
@@ -65,7 +63,6 @@ Jira, Confluence, YouTrack
 #### AUTOMATION TESTER 1,5 years
 
 ##### Project Description & team size:
-
 - Team of 6 developers working on Apps for mass events with integrated navigation
 
 ##### Tasks:
@@ -97,22 +94,18 @@ Jira, Confluence, YouTrack
 ## EDUCATION
 
 #### WSB University in Gdansk
-
 - Field of study: Computer Science
 - Specialization: Software Testing Engineering Bachelor of Engineering studies
 
 ## Courses and certificates
-
 - 2018 ISTQB – International Software Testing Qualification Board: Certified Tester Foundation Level
 
 
 ## LANGUAGES
-
 - English - Advanced (B2 I guess?)
 - Polish - native
 
 ## PASSIONS & HOBBIES
-
 - my kids
 - geopolitics
 - music
